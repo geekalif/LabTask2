@@ -9,7 +9,15 @@
 		</name>
 
 		<admissionDate>
-			25/12/2015
+			<Day>
+				25
+			</Day>
+			<month>
+				12
+			</month>
+			<year>
+				2015
+			</year>
 		</admissionDate>
 	</student>
 
@@ -23,7 +31,15 @@
 		</name>
 
 		<admissionDate>
-			13/01/1999
+			<Day>
+				13
+			</Day>
+			<month>
+				01
+			</month>
+			<year>
+				1999
+			</year>
 		</admissionDate>
 	</student>
 
@@ -37,7 +53,15 @@
 		</name>
 
 		<admissionDate>
-			17/06/2005
+			<Day>
+				17
+			</Day>
+			<month>
+				06
+			</month>
+			<year>
+				2005
+			</year>
 		</admissionDate>
 	</student>
 	
