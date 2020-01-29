@@ -1,0 +1,45 @@
+<students>
+	<student>
+		<serialNo>
+			23
+		</serialNo>
+
+		<name>
+			John Carter
+		</name>
+
+		<admissionDate>
+			25/12/2015
+		</admissionDate>
+	</student>
+
+	<student>
+		<serialNo>
+			29
+		</serialNo>
+
+		<name>
+			Bob Marshal
+		</name>
+
+		<admissionDate>
+			13/01/1999
+		</admissionDate>
+	</student>
+
+	<student>
+		<serialNo>
+			35
+		</serialNo>
+
+		<name>
+			Clark Kent
+		</name>
+
+		<admissionDate>
+			17/06/2005
+		</admissionDate>
+	</student>
+	
+
+</students>
